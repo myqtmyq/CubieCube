@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\C++ CODE\魔方机器人\Project2\moves.h(16,40): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  Project2.vcxproj -> D:\C++ CODE\魔方机器人\x64\Debug\Project2.exe
